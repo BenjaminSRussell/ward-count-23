@@ -505,3 +505,6 @@
 {"n":505,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. direct left open. 6 steps. The badge door stays for the hold."}
 {"n":506,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at the Lot. Nobody past the west court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":507,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west court. Bess keeps the badge door for the hold. 8 steps, direct on the left lane, open."}
+{"n":508,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. direct left open. 2 steps. The badge door stays for the hold."}
+{"n":509,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the west court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":510,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west court. Matt keeps the badge door for the hold. 4 steps, direct on the left lane, open."}

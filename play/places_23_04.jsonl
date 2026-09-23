@@ -310,3 +310,6 @@
 {"n":310,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. direct left open. 3 steps. The crate stays for the hold."}
 {"n":311,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the Lot. Nobody past the south yard. We hold in 4 steps. Direct on the left lane, open."}
 {"n":312,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the crate for the hold. 5 steps, direct on the left lane, open."}
+{"n":313,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. direct left open. 6 steps. The crate stays for the hold."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the Lot. Nobody past the south yard. We hold in 7 steps. Direct on the left lane, open."}
+{"n":315,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south yard. Bess keeps the crate for the hold. 8 steps, direct on the left lane, open."}

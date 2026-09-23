@@ -878,3 +878,6 @@
 {"n":878,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south yard. direct left open. 5 steps. The plywood stays for the hold."}
 {"n":879,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at South stair. Nobody past the south yard. We hold in 6 steps. Direct on the left lane, open."}
 {"n":880,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south yard. Ivo keeps the plywood for the hold. 7 steps, direct on the left lane, open."}
+{"n":881,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south yard. direct left open. 8 steps. The plywood stays for the hold."}
+{"n":882,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at South stair. Nobody past the south yard. We hold in 2 steps. Direct on the left lane, open."}
+{"n":883,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair south yard. Bess keeps the plywood for the hold. 3 steps, direct on the left lane, open."}

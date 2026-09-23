@@ -25,3 +25,6 @@
 {"n":25,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the shutter for the hold. 7 steps, direct on the left lane, open."}
 {"n":26,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. direct left open. 8 steps. The shutter stays for the hold."}
 {"n":27,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Stockyard fence. Nobody past the east court. We hold in 2 steps. Direct on the left lane, open."}
+{"n":28,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the shutter for the hold. 3 steps, direct on the left lane, open."}
+{"n":29,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. direct left open. 4 steps. The shutter stays for the hold."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the east court. We hold in 5 steps. Direct on the left lane, open."}

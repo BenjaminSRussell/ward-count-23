@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north yard. direct left open. 2 steps. The plywood stays for the hold."}
 {"n":923,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at High line. Nobody past the north yard. We hold in 3 steps. Direct on the left lane, open."}
 {"n":924,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line north yard. Ivo keeps the plywood for the hold. 4 steps, direct on the left lane, open."}
+{"n":925,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. direct left open. 5 steps. The plywood stays for the hold."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at High line. Nobody past the north yard. We hold in 6 steps. Direct on the left lane, open."}
+{"n":927,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north yard. Bess keeps the plywood for the hold. 7 steps, direct on the left lane, open."}

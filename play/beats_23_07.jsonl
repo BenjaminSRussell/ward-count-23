@@ -938,3 +938,6 @@
 {"n":938,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Clinic roof. Nobody past the east court. We hold in 5 steps. Direct on the left lane, open."}
 {"n":939,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof east court. Bess keeps the plywood for the hold. 6 steps, direct on the left lane, open."}
 {"n":940,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east court. direct left open. 7 steps. The plywood stays for the hold."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Switchyard. Nobody past the east court. We hold in 8 steps. Direct on the left lane, open."}
+{"n":942,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east court. Matt keeps the plywood for the hold. 2 steps, direct on the left lane, open."}
+{"n":943,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. direct left open. 3 steps. The plywood stays for the hold."}

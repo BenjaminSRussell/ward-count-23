@@ -37,3 +37,6 @@
 {"n":37,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east yard. direct left open. 6 steps. The shutter stays for the hold."}
 {"n":38,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the pier. Nobody past the east yard. We hold in 7 steps. Direct on the left lane, open."}
 {"n":39,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east yard. Bess keeps the shutter for the hold. 8 steps, direct on the left lane, open."}
+{"n":40,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east yard. direct left open. 2 steps. The shutter stays for the hold."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Clinic roof. Nobody past the east yard. We hold in 3 steps. Direct on the left lane, open."}
+{"n":42,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof east yard. Matt keeps the shutter for the hold. 4 steps, direct on the left lane, open."}

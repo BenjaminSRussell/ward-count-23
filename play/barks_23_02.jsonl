@@ -317,3 +317,6 @@
 {"n":317,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court north yard. Nia keeps the crate for the hold. 5 steps, direct on the left lane, open."}
 {"n":318,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north yard. direct left open. 6 steps. The crate stays for the hold."}
 {"n":319,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Mall court. Nobody past the north yard. We hold in 7 steps. Direct on the left lane, open."}
+{"n":320,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court north yard. Ivo keeps the crate for the hold. 8 steps, direct on the left lane, open."}
+{"n":321,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north yard. direct left open. 2 steps. The crate stays for the hold."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Mall court. Nobody past the north yard. We hold in 3 steps. Direct on the left lane, open."}

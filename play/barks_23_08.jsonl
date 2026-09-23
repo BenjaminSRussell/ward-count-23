@@ -797,3 +797,6 @@
 {"n":797,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east court. Nia keeps the rebar for the hold. 3 steps, direct on the left lane, open."}
 {"n":798,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east court. direct left open. 4 steps. The rebar stays for the hold."}
 {"n":799,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Drydock. Nobody past the east court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":800,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east court. Ivo keeps the rebar for the hold. 6 steps, direct on the left lane, open."}
+{"n":801,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east court. direct left open. 7 steps. The rebar stays for the hold."}
+{"n":802,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Drydock. Nobody past the east court. We hold in 8 steps. Direct on the left lane, open."}

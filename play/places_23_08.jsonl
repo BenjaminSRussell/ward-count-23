@@ -741,3 +741,6 @@
 {"n":741,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east court. direct left open. 3 steps. The rebar stays for the hold."}
 {"n":742,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Last Light. Nobody past the east court. We hold in 4 steps. Direct on the left lane, open."}
 {"n":743,"kind":"place","name":"Last Light east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east court. Bess keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
+{"n":744,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east court. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at South stair. Nobody past the east court. We hold in 7 steps. Direct on the left lane, open."}
+{"n":746,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair east court. Matt keeps the rebar for the hold. 8 steps, direct on the left lane, open."}

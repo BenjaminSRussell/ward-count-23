@@ -944,3 +944,6 @@
 {"n":944,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rope at High line. Nobody past the south yard. We hold in 7 steps. Direct on the left lane, open."}
 {"n":945,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south yard. Nia keeps the rope for the hold. 8 steps, direct on the left lane, open."}
 {"n":946,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. direct left open. 2 steps. The rope stays for the hold."}
+{"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at High line. Nobody past the south yard. We hold in 3 steps. Direct on the left lane, open."}
+{"n":948,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south yard. Ivo keeps the rope for the hold. 4 steps, direct on the left lane, open."}
+{"n":949,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. direct left open. 5 steps. The rope stays for the hold."}

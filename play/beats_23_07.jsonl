@@ -947,3 +947,6 @@
 {"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Switchyard. Nobody past the east court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":948,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
 {"n":949,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. direct left open. 2 steps. The plywood stays for the hold."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Switchyard. Nobody past the east court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":951,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east court. Bess keeps the plywood for the hold. 4 steps, direct on the left lane, open."}
+{"n":952,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. direct left open. 5 steps. The plywood stays for the hold."}

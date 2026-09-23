@@ -336,3 +336,6 @@
 {"n":336,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east yard. Ivo keeps the drum for the hold. 4 steps, direct on the left lane, open."}
 {"n":337,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east yard. direct left open. 5 steps. The drum stays for the hold."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Mast yard. Nobody past the east yard. We hold in 6 steps. Direct on the left lane, open."}
+{"n":339,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east yard. Bess keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":340,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east yard. direct left open. 8 steps. The drum stays for the hold."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Last Light. Nobody past the east yard. We hold in 2 steps. Direct on the left lane, open."}

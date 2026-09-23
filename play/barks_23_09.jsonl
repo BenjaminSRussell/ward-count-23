@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot east court. Ivo keeps the badge door for the hold. 5 steps, direct on the left lane, open."}
 {"n":521,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. direct left open. 6 steps. The badge door stays for the hold."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at the Lot. Nobody past the east court. We hold in 7 steps. Direct on the left lane, open."}
+{"n":523,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot east court. Bess keeps the badge door for the hold. 8 steps, direct on the left lane, open."}
+{"n":524,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east court. direct left open. 2 steps. The badge door stays for the hold."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the east court. We hold in 3 steps. Direct on the left lane, open."}

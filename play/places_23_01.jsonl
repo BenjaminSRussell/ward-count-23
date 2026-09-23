@@ -115,3 +115,6 @@
 {"n":115,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east yard. direct left open. 7 steps. The awning stays for the hold."}
 {"n":116,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the awning at the Lot. Nobody past the east yard. We hold in 8 steps. Direct on the left lane, open."}
 {"n":117,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot east yard. Nia keeps the awning for the hold. 2 steps, direct on the left lane, open."}
+{"n":118,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east yard. direct left open. 3 steps. The awning stays for the hold."}
+{"n":119,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at the Lot. Nobody past the east yard. We hold in 4 steps. Direct on the left lane, open."}
+{"n":120,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot east yard. Ivo keeps the awning for the hold. 5 steps, direct on the left lane, open."}
